@@ -65,12 +65,12 @@
 🤖 [ML Model Deployment](#)  
 *Flask · End-to-End ML Pipeline*  
 
----
+
 ## 🎖 Achievements  
 ![Hackathon](https://img.shields.io/badge/Hackathon-Participant-orange)  
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)  
 
----
+
 
 ## 🌱 Fun Fact  
 When I’m not coding, I’m busy translating “AI terms” into human language so my friends don’t think I’m building Skynet 🤖☕  
