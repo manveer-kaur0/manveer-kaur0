@@ -6,7 +6,7 @@
 🔎 **Exploring tech every day** & turning curiosity into code  
 📬 Connect with me: [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://lnk.ink/eGwH)  
 
----
+
 
 ## 🚀 Tech Arsenal  
 
@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux,mysql" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats  
 
