@@ -45,7 +45,7 @@
 - Building **full-stack data projects** with Python & JavaScript  
 - Exploring **IoT + Data Science** integrations  
 
----
+
 
 ## 📚 Currently Learning  
 - **Generative AI & Prompt Engineering**  
