@@ -54,17 +54,6 @@
 
 
 
-## 🌟 Featured Projects  
-
-🚀 [Farm Digital Twin](https://github.com/manveer-kaur0/farm-digital-twin)  
-*IoT + AI · LSTM · Streamlit*  
-
-📊 [Data Visualization Dashboard](#)  
-*Python · Plotly · Analytics*  
-
-🤖 [ML Model Deployment](#)  
-*Flask · End-to-End ML Pipeline*  
-
 
 ## 🎖 Achievements  
 ![Hackathon](https://img.shields.io/badge/Hackathon-Participant-orange)  
